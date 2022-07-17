@@ -1,0 +1,6 @@
+c:\users\cesarkass\documents\visual studio 2013\Projects\Aves\Aves\bin\Debug\Aves.exe.config
+c:\users\cesarkass\documents\visual studio 2013\Projects\Aves\Aves\bin\Debug\Aves.exe
+c:\users\cesarkass\documents\visual studio 2013\Projects\Aves\Aves\bin\Debug\Aves.pdb
+c:\users\cesarkass\documents\visual studio 2013\Projects\Aves\Aves\obj\Debug\Aves.csprojResolveAssemblyReference.cache
+c:\users\cesarkass\documents\visual studio 2013\Projects\Aves\Aves\obj\Debug\Aves.exe
+c:\users\cesarkass\documents\visual studio 2013\Projects\Aves\Aves\obj\Debug\Aves.pdb
